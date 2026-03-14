@@ -21,3 +21,37 @@ Linear Regression ( baseline machine learning model )
 LSTM ( Long Short - Term Memory )
 
 Our goal is to evaluate prediction accuracy of electric load using meteorological and temporal data.
+
+# Dataset
+
+The dataset used in this study is from the Ghodshila substation located in Telengana, India. The data was obtained from Mendeley Data, an open research data repository.
+
+Source : https://data.mendeley.com/datasets/tj54nv46hj/1
+
+Variables in the dataset
+
+The load is calculated from:
+
+Voltage (V)
+
+Current (I)
+
+Power factor (pf)
+
+Additional features:
+
+Active power load (kW)
+
+Temperature
+
+Humidity
+
+Weekday / Weekend
+
+Season (winter, summer, rainy)
+
+After data cleaning, the following features were used :
+
+1. Temprature
+2. Date and Time
+3. 
