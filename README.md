@@ -11,3 +11,13 @@ In today's world, as we shift to clean resources from traditional fuel-based res
 This transition will only succeed if we have a stable, reliable electric grid free from outages. One of the main causes of grid failure is transformer overload when demand spikes unexpectedly.
 
 Electrical load forecasting plays a crucial role in addressing overload issues. It helps operators to predict future load and understand distribution of load throughout the grid maintaining stable electric supply and preventing major grid failures .
+
+# Objectives :
+
+In this project, we are focusing on the implementation and comparison of two models :
+
+Linear Regression ( baseline machine learning model )
+
+LSTM ( Long Short - Term Memory )
+
+Our goal is to evaluate prediction accuracy of electric load using meteorological and temporal data .
