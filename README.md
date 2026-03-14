@@ -20,4 +20,4 @@ Linear Regression ( baseline machine learning model )
 
 LSTM ( Long Short - Term Memory )
 
-Our goal is to evaluate prediction accuracy of electric load using meteorological and temporal data .
+Our goal is to evaluate prediction accuracy of electric load using meteorological and temporal data.
